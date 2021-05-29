@@ -1,2 +1,53 @@
 # useful-resource
 My collection frontend resource &amp; websites
+# Hosting & Deployment
+1.https://www.heroku.com/
+2.https://www.netlify.com/
+
+# Royaltiy free images
+1.https://unsplash.com/
+2.https://www.pexels.com/
+
+# Royaltiy free videos
+1.https://coverr.co/
+
+#Royaltiy free illustrations
+1.https://undraw.co/illustrations
+
+# fonts
+1.https://fonts.google.com/
+
+#icon
+1.https://www.flaticon.com/
+2.https://fontawesome.com/
+3.https://icons8.com/animated-icons
+
+#learning
+1.https://www.freecodecamp.org/
+2.https://www.theodinproject.com/
+3.https://mem.dev/
+
+#mock up tools
+1.https://www.figma.com/
+2.https://zeplin.io/
+
+#freelancing
+1.https://www.freelancer.in/
+2.https://www.upwork.com/
+3.https://www.fiverr.com/
+
+#Design ideas
+1.https://www.awwwards.com/
+2.https://dribbble.com/
+
+#programming and algorithm
+1.https://leetcode.com/
+2.https://www.codewars.com/
+3.https://exercism.io/
+
+#useful resources
+1.https://www.emailjs.com/
+2.https://caniuse.com/
+3.https://imagecompressor.com/
+4.https://css-tricks.com/
+
