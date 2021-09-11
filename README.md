@@ -71,5 +71,8 @@ My collection frontend resource &amp; websites
 
 4.https://css-tricks.com/
 
-#Testing
+# Testing
 1.https://testing-playground.com/
+
+# Color Picker
+1.https://tailwindcss.com/docs/customizing-colors
