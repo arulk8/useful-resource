@@ -10,6 +10,8 @@ My collection frontend resource &amp; websites
 
 2.https://www.pexels.com/
 
+3.https://www.canva.com/
+
 # Royaltiy free videos
 1.https://coverr.co/
 
