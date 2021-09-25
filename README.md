@@ -78,3 +78,7 @@ My collection frontend resource &amp; websites
 
 # Color Picker
 1.https://tailwindcss.com/docs/customizing-colors
+
+# Mock APIs
+1.http://httpstat.us/500
+2.https://api.funtranslations.com/translate/minion.json?text=
