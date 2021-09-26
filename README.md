@@ -28,6 +28,8 @@ My collection frontend resource &amp; websites
 
 3.https://icons8.com/animated-icons
 
+4.https://simpleicons.org/?q=dicord
+
 # learning
 1.https://www.freecodecamp.org/
 
