@@ -82,3 +82,7 @@ My collection frontend resource &amp; websites
 # Mock APIs
 1.http://httpstat.us/500
 2.https://api.funtranslations.com/translate/minion.json?text=
+
+
+-------------------------------------------------------------------***************************************--------------------------------------------------------------------
+1.Read about margin collapsing(https://www.sitepoint.com/collapsing-margins/)
