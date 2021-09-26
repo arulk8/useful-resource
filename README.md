@@ -84,5 +84,5 @@ My collection frontend resource &amp; websites
 2.https://api.funtranslations.com/translate/minion.json?text=
 
 
--------------------------------------------------------------------***************************************--------------------------------------------------------------------
+# Learning Resources
 1.Read about margin collapsing(https://www.sitepoint.com/collapsing-margins/)
