@@ -88,3 +88,4 @@ My collection frontend resource &amp; websites
 
 # Learning Resources
 1.Read about margin collapsing(https://www.sitepoint.com/collapsing-margins/)
+2.Debouncing & Throttling(http://demo.nimius.net/debounce_throttle/)
