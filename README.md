@@ -87,9 +87,10 @@ My collection frontend resource &amp; websites
 
 
 # Learning Resources
-1.Read about margin collapsing(https://www.sitepoint.com/collapsing-margins/)
-2.Debouncing & Throttling(http://demo.nimius.net/debounce_throttle/)
-3.Emojipedia(https://emojipedia.org/)
+1. Read about margin collapsing(https://www.sitepoint.com/collapsing-margins/)
+2. Debouncing & Throttling(http://demo.nimius.net/debounce_throttle/)
+3. Emojipedia(https://emojipedia.org/)
+4. Read about vertical-scroll windows issue(https://web.archive.org/web/20180505112131/https://blogs.msdn.microsoft.com/kurlak/2013/11/03/hiding-vertical-scrollbars-with-pure-css-in-chrome-ie-6-firefox-opera-and-safari/)
 
 # Hardware to Software pixel mapping
 1. https://www.mydevice.io/#compare-devices
