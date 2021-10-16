@@ -90,3 +90,6 @@ My collection frontend resource &amp; websites
 1.Read about margin collapsing(https://www.sitepoint.com/collapsing-margins/)
 2.Debouncing & Throttling(http://demo.nimius.net/debounce_throttle/)
 3.Emojipedia(https://emojipedia.org/)
+
+# Hardware to Software pixel mapping
+1. https://www.mydevice.io/#compare-devices
