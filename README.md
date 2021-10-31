@@ -43,6 +43,24 @@ My collection frontend resource &amp; websites
 
 6.https://bigfrontend.dev/problem
 
+7.https://100dayscss.com/how-to/
+
+8.https://devchallenges.io/
+
+9.https://www.frontendpractice.com/
+
+10.https://stylestage.dev/
+
+11.https://www.codewell.cc/
+
+12.https://javascript.info/
+
+13.https://cssbattle.dev/
+
+14.https://piccalil.li/category/front-end-challenges-club/
+
+15.https://www.flexboxpatterns.com/
+
 
 # Mock up tools
 1.https://www.figma.com/
