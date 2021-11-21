@@ -20,6 +20,13 @@ My collection frontend resource &amp; websites
 
 # fonts
 1.https://fonts.google.com/
+  #Open Sans
+  #Montserrat 
+  #Roboto 
+  #Helvetica
+  #Lato
+  #Merriweather
+  #PlayfairDisplay 
 
 # icon
 1.https://www.flaticon.com/
